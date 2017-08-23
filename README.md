@@ -14,5 +14,6 @@ Examples of plotting libraries (Bokeh mostly) and HoloViews to handle millions o
 ## Points of Interest
 ### Interactive DE
 1) JupyterHub for coordinating docker containers for multiple user interactive
+
 a) use Kubernetes as a top layter on top of HTCondor?
  
