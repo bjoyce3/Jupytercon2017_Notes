@@ -8,3 +8,11 @@ Examples of Juypter notebooks running several languages to input data, munge it,
 
 ### Billions of data points graphed in Jupyter
 Examples of plotting libraries (Bokeh mostly) and HoloViews to handle millions or billions of points on graphs.
+
+
+
+## Points of Interest
+### Interactive DE
+1) JupyterHub for coordinating docker containers for multiple user interactive
+a) use Kubernetes as a top layter on top of HTCondor?
+ 
