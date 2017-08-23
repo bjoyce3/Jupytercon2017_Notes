@@ -9,7 +9,14 @@ Learning SQL directly has advantages
 ORMs
 	Nicer code
 	Knowledge about ORM API is not very transferable
-	
-	
-	
-	
+
+## Subset of rows
+grepl (grep logical)
+%>% == | (pipe)
+
+
+# Application: Pulling data from the Atmosphere database for the Lessons Learned publication
+SQL queries
+Pandas for data munging
+Calling R from Python
+Calling SQLite from Python	
