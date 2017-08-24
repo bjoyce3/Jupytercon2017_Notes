@@ -7,8 +7,7 @@ Notes and code from Jupytercon 2017 in NYC
 Examples of Juypter notebooks running several languages to input data, munge it, and output analyses.
 
 ### Billions of data points graphed in Jupyter
-Examples of plotting libraries (Bokeh mostly) and HoloViews to handle millions or billions of points on graphs.
-
+Examples of plotting libraries (Bokeh mostly) and HoloViews to handle millions or billions of points on graphs. GitHub repo https://github.com/ioam/jupytercon2017-holoviews-tutorial
 
 
 ## Points of Interest
