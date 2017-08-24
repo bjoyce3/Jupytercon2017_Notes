@@ -1,0 +1,45 @@
+
+# Thursday AM Keynotes
+
+## Fernando Perez
+Sustainability
+Democratization of compute
+Personal feelings of imposter syndrome
+
+## Peter Wang
+Sustainability of open source communities
+	Chasm between early adopters and beginning mainstream adopters
+
+## Rachel Thomas
+Fast.ai learning
+Teach problem-solving first and play with tools before learning underneath
+Jupyter notebook centric teaching
+
+## Wes McKinney
+Developer of pandas
+High performance data access
+Apache arrow
+	super set of R, pandas, SQL engines
+	Optimized for CPUs
+	Can be used on GPUs
+	Lightweight Arrow used by Dask
+
+## Demba Ba
+JupyterHub deployed on AWS at scale
+Democratization of computation skills
+Empower non-computer science students
+Cognitive load causes issues for multiple complex concepts in teaching
+	Minimize environment using Jupyter
+Bitbucket teams for classes
+Build courses that he would take as an undergrad	
+Students just have a computer in the cloud as a standard access
+
+
+
+
+
+
+# Points of Interest
+fast.ai and Jupyter notebook
+	Rachel has retrained last few layers of networks
+	Hands on training in San Fransisco

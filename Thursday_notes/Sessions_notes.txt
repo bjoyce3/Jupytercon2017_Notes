@@ -1,0 +1,147 @@
+# Thursday after AM break
+
+## datascience.com 
+Data Science is a critical function in any industry
+Open source growing innovation
+	R packages on CRAN
+	Members or follows for stats packages (R is the most)
+	Tool preferences 
+	2016 Burtch Works survey
+
+## Peter Wang - Anaconda and Continuum Analytics
+Fueling Open Innovation in a data-centric world
+Sustainability 
+	sustain people maintaining code
+	sustain the spirit of innovation
+The nature of software is changing
+Open source avoids lock-in
+Data science != software development
+	Data scientists won't build or maintain software infrastructure
+	Tribes in Python
+		web dev
+		pydata
+		scripting
+		3D graphics
+	Python has a polyglot nature
+Seen vs unseen
+	WWII bombers with holes in them
+	Wanted to reinforce places with more holes
+	Stats person suggested that the ones without holes were planes that never came back
+	Reinforce the areas without holes
+	Cameron Moll ref
+Anaconda business model
+	Deploy
+	Collaborate
+	Explore
+	Connect
+		external data sources
+		distributed systems
+Farming and open source innovation
+	Farming takes inputs and transforms them to outputs
+	The community garden
+		OpenSSL maintained code that everyone used, but no one put money in the honor box
+Ecosystem and farming for sustainability in open source
+	Not a process
+	Need to have the ethos across the entire value chain
+Few examples of sustainable open source
+	Usually wealthy patrons that toss cash
+Warren Buffet says to invest in businesses with a wide moat
+	Castles and moats made sense in their time
+	Scaling ag through feudal lords made sense with the technology of time
+	Changing technology led to towns and villages and deprecated castles
+Vendors will destroy things to protect entrenched business models
+	Innovation can at any point destroy legacy business models
+	We live in a time of potential destruction with new technologies
+	Python community sits at the edge of predatory times from companies as it grows
+	Need more companies and people who are protectors of the innovation and open source nature of community
+
+
+# Thursday after lunch sessions
+
+## CPU and GPU Deep Learning with Jupyter (Tim Gasper and Subbu Rama)
+Most of development time is typing and not leveraging GPUs
+Very costly
+Need to develop on one machine and then move to GPUs
+Elastic GPUs -> GPU attached to CPU nodes
+Need: Attach GPUs to a tiny instance to reduce costs once training is finished
+GPU application interception	
+	GPUs support specific code like CUDA
+	Intercepts CUDA function calls and executables on GPUs
+Bitfusion
+	Bitfusion client runs under application on CPU server
+	Bitfusion server runs on top of OS and real GPUs on NVIDIA server
+	App sees 1 or many elastic GPUs attached to the CPU server
+Basically works like an attached storage
+Bitfusion flex AMI for managing GPU infrastructure with Jupyter workspace
+
+## Jupyter makes experimental and computational collaboration easier
+Share code with non-coders
+Non-coders share experimental data
+
+Challenges
+	Get code running without computational experience
+	Setting up environments and dependencies
+	Explanation beyond docstrings and comment
+		Need human readable docs
+		Plain text docs
+	Easy interaction with data without extra coding
+The Jupyter orbit
+	Part 1: collaborating with non-coders
+		notebook to analyze/explore/explain data
+			Notebook for a coder
+				Built for exploration and interaction
+				nonlinear workflow (powerful/dangerous)
+				simple reproducibility
+			Notebook for a non-coder
+				interactive data document that happens to have code in it
+		ipywidgets to interact with data
+			Coder	
+				simple to create UI objects for interacting with data
+				first line:
+					@ipywidget.interact
+			non-coder
+				changes output without writing extra code
+		jupyterhub to exchange data/notebooks remotely
+			Coders
+				a multi-user hub for experimentalists
+				Jupyterhub has user creation
+				Move files and analyses to collaborator accounts
+				Dependencies and everything go over
+			Non-coders
+				Best thing since sliced bread
+				Sign in
+				Just click go on notebook
+	Part 2: Collaborating with the scientific community
+		Publishing reproducible code/analyses easier than ever
+		Look up paper:
+			Detecting high-order epistasis in nonlinear genotype-phenotype maps
+			Computational methods section
+				GitHub link
+					Has static rendered notebook
+						binder - currently in beta; share executable notebooks
+						nbviewer - share static notebooks; great for supplements
+					No download needed
+			
+
+# Points of Interest		
+Interactive graphing
+	https://github.com/bloomberg/bqplot
+
+Genetics in notebooks
+	http://genepattern-notebook.org/
+
+On demand GPUs
+	https://bitfusion.io/ai-resources
+
+GIS
+	Geonotebooks https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/59861
+	
+Reproducible and Interactive Science
+	Binder
+		For publishing interactive notebooks with code and visualizations
+	NBviewer
+		For publishing static code and visualizations with Jupyter notebooks
+	Example
+		Methods: http://www.genetics.org/content/early/2017/01/19/genetics.116.195214
+
+
