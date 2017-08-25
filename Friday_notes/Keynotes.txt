@@ -1,0 +1,94 @@
+# Friday AM
+
+## William Merchan datascience.com
+Business focus
+22% of companies getting value from data science
+	Orchestration is incredibly difficult
+Data science is now a critical function in every industry
+Jupyter is getting adopted more
+	More files downloaded
+	Becoming the tool of choice
+*check out slides for data
+
+## Lorena Barba Design for Reproducibility
+Jon Claerbout - Standford U
+	1991 seismic work was required to be reproduced
+	Send standards for his thesis students for reproducibility
+Schwab "Making scientific computations reproducible" computing in science
+Claerbout found that interactive computing systems were not reproducible
+	Jupyter is interactive but trying to be computational narratives
+	Problems noted
+		non-linear workflow (in some cases)
+		versioning is obtuse
+Spreadsheets (excel) conflate input, output, code, and presentation
+	Philip Stark 2015 Science is show me, not trust me
+	Testing code and discovering bugs difficult
+Why should we care about reproducibility?
+Science is a conversation (connectivism)
+	Stephen Downes
+	between humans and knowledge
+	humans and other humans
+	humans and machines
+Single click solutions are not conversations
+
+## Andrew Odewahn - O' Reilly Media
+O'Reilly approach to supporting Jupyter
+	Git repos online
+	Jupyter notebook
+	Dockerfile is specified in each repo (docker-stacks)
+	Runtime environment (running instance of a notebook)
+Jupyter notebook live online training
+	Jupyter go training
+Proposals
+	proposals.oreilly.jupyter.com
+
+## Brett Cannon - setting expectations in open source
+Burnout is real
+Open source should be a give and take
+	People should be aware of what you're taking
+	Symbiosis between users and maintainers
+Using open source
+	Maintainer gives code, happily
+	User takes code, without complaint
+Providing feedback
+	Users gives constructive feedback, nicely
+	Maintainer receives it, thankfully
+Open source seems to have the same life/work problems as researchers
+Basically: professionalism in open source is needed
+
+## Nadia Eghbal @nayafia
+Where money meets open source
+People contribute for many reasons
+	Wanting to solve a problem
+		relevant to beginning of a project
+		casual contributions more than half of contributions
+	Reputation building
+		Public resume
+	Community for regular contributors
+	It's fun for them
+These incentives probably change over time
+	benefits from any of those reasons will likely taper off
+	Don't break/change people's motivations
+	Use money to enhance their motivations
+		Reduce friction (eg. first time contributor may need a workshop to train them)
+		
+Project life cycle and ways funding can be used
+	Create: startup costs
+		Font asesome crowdfunded updates and improvements
+	Evangelize: spread the word
+		Empower the community and sponsor events
+	Contribute: lower barriers
+		In person sprints, meet ups
+	Maintain: overhead costs
+		Long-term maintenance
+		Full-time workers and hobbyists
+Volunteering != working at a nonprofit
+Money doesn't replace contributions
+Money can reduce friction
+	
+
+# Points of interest
+
+O'Reilly Jupyter Teaching Proposals
+	proposals.oreilly.jupyter.com
+	

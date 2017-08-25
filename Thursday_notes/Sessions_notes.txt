@@ -121,9 +121,68 @@ The Jupyter orbit
 						binder - currently in beta; share executable notebooks
 						nbviewer - share static notebooks; great for supplements
 					No download needed
-			
+					
+# Thursday after coffee sessions
 
-# Points of Interest		
+## Humans in a loop: jupyter nb as a front-end for AI
+Paco Nathan @pacoid
+Dir, learning group @ o'reilly media
+
+Framing
+	Bring people and machines together in workflows
+	NLP for language modeling at o' reilly for books, text, and media
+	
+Supervised ML
+	need lots of carefully labeled data
+	10,000 examples needed in NLP
+Unsupervised ML
+	runs lots of unlabeled data through an algorithm to detect structure
+	clustering algorithms such as k-means
+Active Learning (specialized case of semi-supervised)
+	send difficult calls/edge cases to experts, routine algo handles routine decisions
+	works well in use cases which have lots of inexpensive, unlabeled data
+	abundance of content to be classified, where the cost of labeling is expense
+
+Examples
+Real-world active learning: applications and strategies for human-in-the-loop machine learning
+	Ted Cuzzilo
+CrowdFlower
+	data preparation in the age of deep learning
+	Luck Biewald
+Design pattern: human-in-the-loop
+	Jason Laska, Clara Labs
+	Strategies for integrating people and machine learning in online systems
+	two-sided marketplace where machines and people compete on a spectrum of relative expertise and capabilities
+Weak supervision
+	Data programming to feed in trusted data and influence feature learning
+Reinforcement learning
+	learning to act based on long-term payoffs
+	often as a reward/punishment of an actor within a sim
+
+What do people and machines do best?
+	Humans
+		human scale
+		primary structure
+		control points
+		testability
+	Machine
+		machine generated data products ~80% of the graph
+	Inferences across the graph
+Ontology
+	provides context which deep learning lacks
+	'knowledge graph' = a computable thesaurus
+	Use OWL
+Jupyter notebooks
+	ML by examples rather than features
+	Apache Spark + scikit learn
+	Jupyter runs on browser and ssh tunnels to server with spark + scikit learn
+
+Video is difficult for ML
+AR and VR are coming online with higher data rates
+Why we'll never run out of jobs - Tim O' Reilly
+
+
+# Points of Interest
 Interactive graphing
 	https://github.com/bloomberg/bqplot
 
@@ -136,6 +195,8 @@ On demand GPUs
 GIS
 	Geonotebooks https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/59861
 	
+Machine Learning and Deep Learning
+
 Reproducible and Interactive Science
 	Binder
 		For publishing interactive notebooks with code and visualizations
@@ -143,5 +204,4 @@ Reproducible and Interactive Science
 		For publishing static code and visualizations with Jupyter notebooks
 	Example
 		Methods: http://www.genetics.org/content/early/2017/01/19/genetics.116.195214
-
 

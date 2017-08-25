@@ -1,0 +1,22 @@
+Polyglot Analysis - Jupyter for Python, SQL, R
+
+Slides: http://jpyc17.appspot.com/
+
+
+## Take away
+Learning SQL directly has advantages
+	Transferable knowledge to other ORMs
+ORMs
+	Nicer code
+	Knowledge about ORM API is not very transferable
+
+## Subset of rows
+grepl (grep logical)
+%>% == | (pipe)
+
+
+# Application: Pulling data from the Atmosphere database for the Lessons Learned publication
+SQL queries
+Pandas for data munging
+Calling R from Python
+Calling SQLite from Python	

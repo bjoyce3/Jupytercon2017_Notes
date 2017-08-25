@@ -1,0 +1,91 @@
+# Friday AM Sessions
+
+## Citing Jupyter in scientific publications
+FAIR open science framework
+Jupyter notebooks can be interface between code and data
+Astronomy case study
+	sloan sky map
+Ways citing is varied (8 different ways)
+	Mentioned
+		providing links in body of paper
+	Citing notebook
+Steps
+	code and data to be shared
+	decide on repo to put everything in
+	obtain DOIs
+	Cite these in publication
+
+iPython: a system for interactive scientific computing 2007 DOI: 10.1109/MCSE.2007.53
+Link to notebook and repo
+
+Hope Chen
+	glue
+		GUI for linking data sets in Jupyter notebooks
+	Combining notebook and glue
+		nbglue environment setup
+		%gui qt line magic
+
+## Reproducible courses
+Distinguished instructor short course
+	Given around the world for one day
+SimPEG tool is ued for geophysics computation
+Course:
+	1 day course - 8 hours
+		26 notebook-apps
+		560 slides
+	+1 day 'lab'
+		discussions, tutorials
+		presentations from participants
+Audience
+	Industry professionals and applied academics
+	1400 people, 21 countries
+Contributors
+	52 people, 16 on GitHub
+	grad students, academics
+Goals
+	inspire through applications
+	build a foundation
+		basic principles
+		realistic expectations
+	maintain a community of people
+Not Goals
+	not a course in computation
+	not assessing the learners
+	not building infrastructure
+Ingredients
+	contributors
+	instructor
+	course materials
+	computational tools
+	participants
+Traditional use of written and printed textbook is a problem
+	Need to iterate in place
+		Remove bugs, typos in textbook
+Education stack
+	Needs a community around it
+	Python as a base and tools, case studies, examples, etc
+From the top
+	Web textbook (read the docs)
+	course materials
+	introduce participants to course
+		case histories of scientific examples/real life applications
+		Jupyter notebooks + widgets + plotting
+		step by step how figure is created
+Context provided by ReadtheDocs (Sphinx)
+	Testing in Travis
+	Sphinx for docs
+On chaos
+	the course will happen
+	apps will be deployed
+	Used in real time during course and need to be executable by single clicks
+	Does it work?
+		Run on my computer
+		code is tested
+		someone understands how it works
+		there are docs in the code
+		the code is structured
+		docs on a website
+		code is styled to standard
+
+		
+
