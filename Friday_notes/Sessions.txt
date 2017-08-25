@@ -86,6 +86,22 @@ On chaos
 		the code is structured
 		docs on a website
 		code is styled to standard
-
+Complete circle
+	create reproducible course
+	deploy course
+	trainees extend course and tools
+	submit back to original course and iterate on it
+	Creates a pull forward that requires reproducibility
+Challenges
+	What is tied to the ecosystem
+		Slides are troublesome
+		Hard to do that collaboratively on Jupyter
+	How do people get into the ecosystem
+		Clicking on GitHub edit and submit
+		Minimize roadblocks
+		Simple text
+Needs
+	Graphs in slides and notebooks
+	
 		
 
