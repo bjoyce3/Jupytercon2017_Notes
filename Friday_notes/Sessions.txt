@@ -103,5 +103,53 @@ Challenges
 Needs
 	Graphs in slides and notebooks
 	
-		
+	
+# Friday after lunch sessions
+
+## Numfocus
+Andy - Touching Humanity
+Mathematician
+Hurricane Sandy was a disaster, but would normally have been worse
+	Hurricane data science
+	Devices in the ocean that can take measurements
+	NOAA website has data
+Open data science tools used with scientific community to help humanity
+Traditional innovation pipeline
+	scientific discovery
+	archival paper
+	technical innovation
+	engineered code
+	integration
+	human problem
+The problem is that scientists are very removed from the problem-solving
+Innovation Ecosystem
+	Scientists + human problem + technical innovation
+Numfocus builds the innovation ecosystem
+Why Numfocus
+	Projects need funding
+	projects need stability
+	projects need independence
+	projects need logistical support
+Numfocus delivers as a 501(c)(3)
+	Fiscal and legal services
+		what happens when your project receives corporate funding
+		iPython needed an organization to have funding from IBM to come in
+		Attorneys for trademarks, ownership, contracts, legal agreements
+			licensing
+		Financial services
+			accounts payable & receivable
+			grant administration
+			contractor agreements
+			taxes & reporting
+		Operational services
+			Technical infrastructure
+			conference & event planning
+			consulting on a variety of admin requests
+	Sustainability of project
+		Engage with projects to understand needs of project
+	Community
+		How to support open science community?
+		Why is increasing public engagement important?
+		How can project interact more with the community?
+			Carpentrycon next year
 
